@@ -32,7 +32,7 @@
         <common.dbcp.version>1.4</common.dbcp.version>
         <commons-io.version>2.5</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <xml.thoughtworks.xstream>1.4.7</xml.thoughtworks.xstream>
+        <xml.thoughtworks.xstream>1.4.17</xml.thoughtworks.xstream>
     </properties>
 
     <build>
