@@ -21,7 +21,7 @@
         <junit.version>4.12</junit.version>
         <spring.version>4.3.9.RELEASE</spring.version>
         <jackson.version>2.9.2</jackson.version>
-        <fastjson.version>1.2.31</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons.io.version>2.5</commons.io.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
         <commons-lang>2.6</commons-lang>
