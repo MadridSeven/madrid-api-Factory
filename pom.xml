@@ -28,7 +28,7 @@
         <slf4j.api.version>1.7.9</slf4j.api.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <!-- mysql -->
-        <driver.mysql.version>5.1.36</driver.mysql.version>
+        <driver.mysql.version>8.0.28</driver.mysql.version>
         <common.dbcp.version>1.4</common.dbcp.version>
         <commons-io.version>2.5</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
